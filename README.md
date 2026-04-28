@@ -62,10 +62,10 @@ It provides a simple and interactive desktop interface built using **Java Swing*
 ## Screenshots
 
 
-<img width="600" height="593" alt="WhatsApp Image 2026-04-28 at 6 20 24 PM" src="https://github.com/user-attachments/assets/2154b56a-32eb-4301-854a-29ba56bb7200" />
-<img width="600" height="613" alt="WhatsApp Image 2026-04-28 at 6 20 23 PM" src="https://github.com/user-attachments/assets/dfb498bb-ced6-435b-b63d-d55f2689d27e" />
-<img width="600" height="673" alt="WhatsApp Image 2026-04-28 at 6 20 23 PM (1)" src="https://github.com/user-attachments/assets/2dc9fa08-468c-43ad-b1b3-99d7180c2580" />
-<img width="600" height="593" alt="WhatsApp Image 2026-04-28 at 6 20 22 PM" src="https://github.com/user-attachments/assets/19499a15-c95f-43ab-ba02-2e107893566c" />
+<img width="600" height="350" alt="WhatsApp Image 2026-04-28 at 6 20 24 PM" src="https://github.com/user-attachments/assets/2154b56a-32eb-4301-854a-29ba56bb7200" />
+<img width="600" height="350" alt="WhatsApp Image 2026-04-28 at 6 20 23 PM" src="https://github.com/user-attachments/assets/dfb498bb-ced6-435b-b63d-d55f2689d27e" />
+<img width="600" height="350" alt="WhatsApp Image 2026-04-28 at 6 20 23 PM (1)" src="https://github.com/user-attachments/assets/2dc9fa08-468c-43ad-b1b3-99d7180c2580" />
+<img width="600" height="350" alt="WhatsApp Image 2026-04-28 at 6 20 22 PM" src="https://github.com/user-attachments/assets/19499a15-c95f-43ab-ba02-2e107893566c" />
 
 
 
